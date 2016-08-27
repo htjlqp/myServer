@@ -1,0 +1,6 @@
+com/mossle/core/query/PropertyFilterUtils$1.class
+com/mossle/core/servlet/BeforeInvocationFilter$1.class
+com/mossle/core/hibernate/HibernateUtils$1.class
+com/mossle/core/servlet/CompositeFilter$1.class
+com/mossle/bpm/listener/FunctionEventListener$1.class
+org/springframework/session/web/http/SessionRepositoryFilter$1.class
